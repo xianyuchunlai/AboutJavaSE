@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="Mother"/>
+<fullyQualifiedTypeName name="Father"/>
+<fullyQualifiedTypeName name="org.omg.CORBA.PRIVATE_MEMBER"/>
+<fullyQualifiedTypeName name="com.lanou.homework.Father"/>
+<fullyQualifiedTypeName name="com.lanou.homework.Child"/>
+<fullyQualifiedTypeName name="com.lanou.homework.Mother"/>
+<fullyQualifiedTypeName name="javax.print.attribute.standard.PresentationDirection"/>
+<fullyQualifiedTypeName name="com.lanou3g.study.person"/>
+<fullyQualifiedTypeName name="com.lanou3g.study.Cat"/>
+<fullyQualifiedTypeName name="com.lanou3g.study.Person"/>
+<fullyQualifiedTypeName name="com.lanou3g.study.Dog"/>
+<fullyQualifiedTypeName name="com.lanou3g.study.extend.Pig"/>
+<fullyQualifiedTypeName name="com.lanou3g.study.extend.Monkey"/>
+<fullyQualifiedTypeName name="com.lanou3g.study.extend.Animal"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+</qualifiedTypeNameHistroy>

@@ -14,5 +14,15 @@
 <fullyQualifiedTypeName name="com.lanou3g.study.extend.Pig"/>
 <fullyQualifiedTypeName name="com.lanou3g.study.extend.Monkey"/>
 <fullyQualifiedTypeName name="com.lanou3g.study.extend.Animal"/>
+<fullyQualifiedTypeName name="com.lanou3g.extend.BigCar"/>
+<fullyQualifiedTypeName name="org.omg.CosNaming.NamingContextExtPackage.StringNameHelper"/>
 <fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.lanou3g.extend.MyThis"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="com.lanou3g.extend.Car"/>
+<fullyQualifiedTypeName name="com.lanou3g.extend.RunCar"/>
+<fullyQualifiedTypeName name="com.lanou.abs.Sunny"/>
+<fullyQualifiedTypeName name="com.lanou.abs.RainDay"/>
+<fullyQualifiedTypeName name="com.lanou.abs.Weather"/>
+<fullyQualifiedTypeName name="com.lanou.abs.Person"/>
 </qualifiedTypeNameHistroy>

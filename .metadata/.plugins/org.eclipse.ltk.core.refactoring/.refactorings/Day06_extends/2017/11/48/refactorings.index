@@ -1,18 +1,14 @@
-1511918156671	Encapsulate field 'name'
-1511918187216	Encapsulate field 'name'
-1511922894239	Encapsulate field 'owner'
-1511941047578	Move compilation unit
-1511941604495	Delete element
-1511941938439	Delete element
-1511941967351	Copy package
-1511942004617	Delete element
-1511943450581	Copy file
-1511943454251	Move file
-1511943463217	Delete element
-1511943539634	Delete element
-1511945251637	Delete element
-1511945283450	Delete element
-1511945320520	Delete element
-1511945359443	Delete element
-1511945417205	Delete element
-1511945438167	Delete element
+1511945704158	Delete element
+1511945709079	Delete element
+1511954254346	Rename package 'homeWork'
+1511954371492	Encapsulate field 'name'
+1511954375752	Encapsulate field 'age'
+1511955288765	Rename package 'NightWork'
+1511955346868	Copy package
+1511955352759	Delete element
+1511955378565	Delete element
+1511955383026	Delete element
+1511955559053	Encapsulate field 'girl'
+1511955565410	Encapsulate field 'boy'
+1511957330860	Encapsulate field 'name'
+1511957335386	Encapsulate field 'color'

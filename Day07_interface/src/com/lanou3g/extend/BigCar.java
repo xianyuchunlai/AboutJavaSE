@@ -10,7 +10,6 @@ public class BigCar extends Car {
 
 	@Override
 	public int getWheels() {
-		// TODO Auto-generated method stub
 		return super.getWheels();
 	}
 
@@ -20,7 +19,6 @@ public class BigCar extends Car {
 		super.setWheels(wheels);
 	}
 
-	@Override
 	public String getColor() {
 		return super.getColor();
 	}

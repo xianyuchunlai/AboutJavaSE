@@ -3,7 +3,6 @@ package com.lanou3g.inter;
 public class Company {
 	// work 是一个接口
 	// 这里就是创建了一个接口的引用
-	@SuppressWarnings("unused")
 	private Work work;
 
 	public void setWork(Work work) {

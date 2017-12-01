@@ -14,9 +14,7 @@
 <fullyQualifiedTypeName name="com.lanou3g.study.extend.Animal"/>
 <fullyQualifiedTypeName name="com.lanou3g.extend.BigCar"/>
 <fullyQualifiedTypeName name="org.omg.CosNaming.NamingContextExtPackage.StringNameHelper"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="com.lanou3g.extend.MyThis"/>
-<fullyQualifiedTypeName name="java.lang.Override"/>
 <fullyQualifiedTypeName name="com.lanou3g.extend.Car"/>
 <fullyQualifiedTypeName name="com.lanou3g.extend.RunCar"/>
 <fullyQualifiedTypeName name="com.lanou.abs.Sunny"/>
@@ -25,7 +23,6 @@
 <fullyQualifiedTypeName name="com.lanou.abs.Person"/>
 <fullyQualifiedTypeName name="Person"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="Doctor"/>
 <fullyQualifiedTypeName name="Teacher"/>
 <fullyQualifiedTypeName name="javax.print.Doc"/>
@@ -43,4 +40,20 @@
 <fullyQualifiedTypeName name="com.lanou3g.study.Teacher"/>
 <fullyQualifiedTypeName name="com.lanou3g.study.Doctor"/>
 <fullyQualifiedTypeName name="com.lanou3g.inter.WatchDog"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="com.lanou3g.change.Father"/>
+<fullyQualifiedTypeName name="com.lanou3g.change.Girl"/>
+<fullyQualifiedTypeName name="com.lanou3g.change.Son"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="javax.xml.crypto.Data"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.text.DateFormat"/>
+<fullyQualifiedTypeName name="java.awt.event.MouseWheelEvent"/>
+<fullyQualifiedTypeName name="java.util.concurrent.atomic.DoubleAdder"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.lanou3g.normal.CalenderDemo"/>
 </qualifiedTypeNameHistroy>

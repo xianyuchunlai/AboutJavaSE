@@ -5,9 +5,9 @@ package DAY20171130;
 /**
  * Created by travelround on 17/5/8.
  */
-// 1、定义联系人类Contact。
-// 属性变量：姓名、性别、电话号码、住址、分组名称。
-// 方法：构造方法（姓名、电话号码）、显示联系人信息
+//1、定义联系人类Contact。
+//属性变量：姓名、性别、电话号码、住址、分组名称。
+//方法：构造方法（姓名、电话号码）、显示联系人信息
 public class Contact {
 
     private String name;

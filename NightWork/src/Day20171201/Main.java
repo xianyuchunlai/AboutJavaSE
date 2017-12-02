@@ -11,9 +11,9 @@ public class Main {
 	public static void main(String[] args) {
 		long a = System.currentTimeMillis();
 		Scanner input = new Scanner(System.in);
-		System.out.println("ÇëÊäÈëÓÃ»§Ãû");
+		System.out.println("è¯·è¾“å…¥ç”¨æˆ·å");
 		String UserDate = input.nextLine();
-		System.out.println("ÇëÊäÈëÃÜÂë");
+		System.out.println("è¯·è¾“å…¥å¯†ç ");
 		String passWord = input.nextLine();
 		
 		long l = System.currentTimeMillis();
@@ -21,7 +21,7 @@ public class Main {
 		String time = df.format(l);
 		System.out.println(time);
 		
-		System.out.println("¸Ã³ÌĞòÔËĞĞÓÃÊ±"+(float)(l-a)/1000+"Ãë");
+		System.out.println("ç¨‹åºè¿è¡Œç”¨æ—¶"+(float)(l-a)/1000+"ç§’");
 		
 		
 		

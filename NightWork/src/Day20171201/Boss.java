@@ -3,11 +3,11 @@ package Day20171201;
 public class Boss extends Person {
 	@Override
 	public void work() {
-		System.out.println("¸ãÊÂÇé");
+		System.out.println("æäº‹æƒ…");
 	}
 
 	public void bossCanDo() {
-		System.out.println("²»·¢¹¤×Ê");
+		System.out.println("ä¸å‘å·¥èµ„");
 	}
 
 }

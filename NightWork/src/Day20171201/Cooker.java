@@ -3,10 +3,10 @@ package Day20171201;
 public class Cooker extends Person {
 	@Override
 	public void work() {
-		System.out.println("¸ãÊÂÇé");
+		System.out.println("æäº‹æƒ…");
 	}
 
 	public void cookerCanDo() {
-		System.out.println("µßÉ×");
+		System.out.println("é¢ å‹º");
 	}
 }

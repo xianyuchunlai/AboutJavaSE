@@ -8,12 +8,12 @@ public class Login implements UserInter {
 
 	@Override
 	public void onLine() {
-		System.out.println("µÇÂ½Ê§°Ü");
+		System.out.println("ç™»é™†æˆåŠŸ");
 	}
 
 	@Override
 	public void ofLine() {
-		System.out.println("µÇÂ½³É¹¦");
+		System.out.println("ç™»é™†å¤±è´¥");
 
 	}
 

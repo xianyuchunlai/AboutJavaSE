@@ -3,10 +3,10 @@ package Day20171201;
 public class Doctor extends Person {
 	@Override
 	public void work() {
-		System.out.println("¸ãÊÂÇé");
+		System.out.println("æäº‹æƒ…");
 	}
 
 	public void doctorCanDo() {
-		System.out.println("ÖÎ²¡");
+		System.out.println("æ²»ç—…");
 	}
 }

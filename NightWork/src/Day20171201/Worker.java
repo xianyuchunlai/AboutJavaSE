@@ -9,4 +9,19 @@ public class Worker extends Person {
 	public void workerCanDo() {
 		System.out.println("罢工");
 	}
+
+	public void onLine() {
+		System.out.println("罢工");
+		
+	}
+
+	public void offLine() {
+		// TODO Auto-generated method stub
+		System.out.println("罢工");
+	}
+
+	public void offWork() {
+		// TODO Auto-generated method stub
+		System.out.println("罢工");
+	}
 }

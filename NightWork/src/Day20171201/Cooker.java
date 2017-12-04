@@ -9,4 +9,19 @@ public class Cooker extends Person {
 	public void cookerCanDo() {
 		System.out.println("颠勺");
 	}
+
+	public void onLine() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void offLine() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void offWork() {
+		// TODO Auto-generated method stub
+		
+	}
 }

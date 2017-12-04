@@ -9,4 +9,19 @@ public class Doctor extends Person {
 	public void doctorCanDo() {
 		System.out.println("治病");
 	}
+
+	public void onLine() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void offLine() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void operation() {
+		// TODO Auto-generated method stub
+		
+	}
 }

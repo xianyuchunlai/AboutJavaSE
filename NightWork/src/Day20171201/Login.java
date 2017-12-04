@@ -17,4 +17,9 @@ public class Login implements UserInter {
 
 	}
 
+	public static Person valueIn(String user, String password) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }

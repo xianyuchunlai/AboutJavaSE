@@ -15,7 +15,7 @@ public class Student {
 	
 	/*
 	 * public 权限修饰符
-	 * void 返回值:void表示没有返回值
+	 * void 返回值:void表示没有返回值7晕晕晕晕晕晕与韩国演员核工业医院以药养医；赖昌星；v；vbbbvvbghjjnfjksxdhnmjnhnjkjhmbyummmmmybh               
 	 * show 方法名
 	 * (String str) 参数列表:可以有多个参数
 	 *              String是参数的类型，调用方法时，需要传入对应类型的内容  

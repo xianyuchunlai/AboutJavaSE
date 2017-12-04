@@ -10,4 +10,19 @@ public class Boss extends Person {
 		System.out.println("不发工资");
 	}
 
+	public void onLine() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void offLine() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void offWork() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

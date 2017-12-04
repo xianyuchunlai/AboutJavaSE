@@ -42,4 +42,9 @@ public class Person {
 		System.out.println("搞事情");
 	}
 
+	public String getProfession() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }

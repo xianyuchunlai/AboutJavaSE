@@ -103,6 +103,7 @@ public class Main {
         a.toString();
         int b = a;
 
+
         Object obj = 1;
         System.out.println(obj.getClass().getName());
 

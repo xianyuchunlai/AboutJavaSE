@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="Mother"/>
-<fullyQualifiedTypeName name="Father"/>
-<fullyQualifiedTypeName name="com.lanou.homework.Father"/>
-<fullyQualifiedTypeName name="com.lanou.homework.Child"/>
 <fullyQualifiedTypeName name="com.lanou.homework.Mother"/>
 <fullyQualifiedTypeName name="javax.print.attribute.standard.PresentationDirection"/>
 <fullyQualifiedTypeName name="com.lanou3g.study.person"/>
@@ -43,7 +39,6 @@
 <fullyQualifiedTypeName name="com.lanou3g.change.Girl"/>
 <fullyQualifiedTypeName name="com.lanou3g.change.Son"/>
 <fullyQualifiedTypeName name="java.lang.Math"/>
-<fullyQualifiedTypeName name="java.util.Random"/>
 <fullyQualifiedTypeName name="java.sql.Date"/>
 <fullyQualifiedTypeName name="javax.xml.crypto.Data"/>
 <fullyQualifiedTypeName name="java.text.DateFormat"/>
@@ -59,5 +54,10 @@
 <fullyQualifiedTypeName name="Day20171201.UserInter"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="周总结.周总结.Car"/>
+<fullyQualifiedTypeName name="org.omg.CORBA.PUBLIC_MEMBER"/>
 <fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
 </qualifiedTypeNameHistroy>

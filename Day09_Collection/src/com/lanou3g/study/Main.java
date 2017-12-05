@@ -2,7 +2,7 @@ package com.lanou3g.study;
 
 import java.util.ArrayList;
 import java.util.List;
-import  java.util.*;
+//import java.util.*;
 
 
 public class Main {
@@ -23,7 +23,7 @@ public class Main {
             并且，集合的大小，是可以改变的
          */
 
-            //这就是创建类一个集合对象
+        //这就是创建类一个集合对象
         List list = new ArrayList();
 
         //通过观察发现，List是一个接口
@@ -59,18 +59,54 @@ public class Main {
 
         System.out.println(list.size());
 
+        for (int i = 0; i < list.size(); i++) {
 
+            Object o = 1;
 
+            Object obj = list.get(i);
 
-       // Object[] objs ={1,2,"您好",args};
+            //i =2         1
 
+            System.out.println(
+                    "第" + i + "个元素的值为" + obj);
+            //调用了obj的toString方法.toString())
+        }
 
+        // Object[] objs ={1,2,"您好",args};
+
+    /*
+     * 基本数据类型包装类
+     * 八大基本数据类型，每个数据类型都有一个包装类
+     * 包装类，其实就是一个class，就是一个类型
+     *
+     * 可以创建该类型的对象
+     *
+     * 对应关系
+     *
+     * int Integer
+     * char Character
+     * byte Byte
+     * short Short
+     * long Long
+     * float Float
+     * double Double
+     * boolean Blooean
+     *
+     * 除了int 和char其他的都是基本数据类型的大驼峰结构
+     *
+     * 自动拆箱和自动装箱
+     * Integer a = 1;//自动装箱
+     *              //a = new Integer(1);
+     * int b =a;//自动拆箱
+     */
+        Integer a = 1;
+        a.toString();
+        int b = a;
+
+        Object obj = 1;
+        System.out.println(obj.getClass().getName());
 
     }
 
-
-
-
-
-    }
+}
 
